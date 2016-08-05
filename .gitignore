@@ -1,0 +1,14 @@
+### https://raw.github.com/github/gitignore/9f6724149b9a0a861b402683f6c50c5f085d130b/erlang.gitignore
+
+.eunit
+deps
+*.o
+*.beam
+*.plt
+erl_crash.dump
+ebin
+rel/example_project
+.concrete/DEV_MODE
+.rebar
+
+
